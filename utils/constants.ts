@@ -1,0 +1,16 @@
+export const SIMULATION_CONSTANTS = {
+  SCATTER: {
+    DURATION: 60,
+    FORCE: 3,
+    RADIUS: 100
+  },
+  RENDER: {
+    TRAIL_ALPHA: 0.3,
+    FADE_AMOUNT: 0.1,
+    BASE_SIZE: 4,
+    SCATTERED_SIZE: 6
+  },
+  PHYSICS: {
+    SCATTER_SPEED_MULTIPLIER: 2
+  }
+} as const
