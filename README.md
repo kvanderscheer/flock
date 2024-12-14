@@ -27,7 +27,7 @@ An interactive flocking simulation built with Nuxt 3, implementing Craig Reynold
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/flock.git
+git clone https://github.com/kvanderscheer/flock.git
 cd flock
 ```
 
@@ -89,11 +89,11 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📝 License
 
-This project is [MIT](link-to-license) licensed.
+This project is MIT licensed.
 
 ## 👥 Authors
 
-- **Your Name** - [GitHub Profile](your-github-profile-link)
+- **Kurt VanderScheer** - [GitHub Profile](https://github.com/kvanderscheer)
 
 ---
 
